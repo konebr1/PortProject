@@ -1,5 +1,5 @@
 --Dataset includes all players in NBA and ABA history, Some Data below is only showing players who played post-NBA/ABA merger.
---Some Players are Combo players meaning they play either (guard and foward) or (foward and center), so they are included in both data
+--Some Players are Combo players meaning they play either (guard and foward) or (foward and center),so they are included in both data
 --NBA 75 has players who played in ABA
 --Data involving MVP Trophies on include players who started their career post NBA/ABA merger(ABA MVP Trophies only counted in NBA_75 set)
 
